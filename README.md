@@ -1,5 +1,8 @@
 # Clock-using-opencv-python
 
+![image](https://github.com/user-attachments/assets/3b3a2af8-0025-49b3-8944-118a3ac848b3)
+
+
 This Analog and digital clock project is made by using OPEN-CV library in Python So you should require open-cv and numpy library to be installed in your system.
 
 ### To install Open-CV and numpy use these cammands : 
@@ -19,4 +22,3 @@ OR :
     python -c "import cv2"
     python -c "import numpy"
     
-![image](https://github.com/user-attachments/assets/3b3a2af8-0025-49b3-8944-118a3ac848b3)
