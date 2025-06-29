@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/3b3a2af8-0025-49b3-8944-118a3ac848b3)
 
 
-This Analog and digital clock project is made by using OPEN-CV library in Python So you should require open-cv and numpy library to be installed in your system.
+This Analog and digital clock project is made by using OPEN-CV library and numpy in Python.
 
 ### To install Open-CV and numpy use these cammands : 
 ##
