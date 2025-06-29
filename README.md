@@ -15,7 +15,8 @@ OR:
     python3 -c "import cv2"
     python3 -c "import numpy"
 OR :
-##  
+##   
     python -c "import cv2"
     python -c "import numpy"
-![open-cv clock](https://github.com/hassan-635/Clock-using-opencv-python/blob/main/opencv_clock.png+)
+    
+![image](https://github.com/user-attachments/assets/3b3a2af8-0025-49b3-8944-118a3ac848b3)
